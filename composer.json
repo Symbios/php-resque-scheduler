@@ -15,9 +15,9 @@
 		}
 	},
 	"repositories": [
-		{ "type": "git", "url": "https://github.com/chrisboulton/php-resque" }
+		{ "type": "git", "url": "https://github.com/Symbios/php-resque" }
 	],
 	"require": {
-		"Symbios/php-resque": "dev-Symbios"
+		"chrisboulton/php-resque": "dev-Symbios"
 	}
 }
